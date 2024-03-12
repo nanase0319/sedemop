@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="generics.ExamMethodTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-23T08:35:05" hostname="LAPTOP-BBC9UORP" time="0.006">
+  <properties/>
+  <testcase name="test1" classname="generics.ExamMethodTest" time="0.006"/>
+  <system-out><![CDATA[generics.ExamClass
+generics.ExamInterfaceImpl
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
